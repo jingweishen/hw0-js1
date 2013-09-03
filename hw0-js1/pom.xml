@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>cmu.edu.lti.11791.f13.hw0</groupId>
 	<artifactId>hw0-js1</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.1-SNAPSHOT</version>
 	<scm>
 		<connection>scm:git:git@github:jingweishen/hw0-js1.git</connection>
 		<developerConnection>scm:git:git@github:jingweishen/hw0-js1.git</developerConnection>
@@ -44,7 +44,7 @@
 							<goal>perform</goal>
 						</goals>
 						<configuration>
-							<pomFileName>hw0-ANDREW_ID/pom.xml</pomFileName>
+							<pomFileName>hw0-js1/pom.xml</pomFileName>
 						</configuration>
 					</execution>
 				</executions>
